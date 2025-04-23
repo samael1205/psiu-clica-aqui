@@ -92,7 +92,7 @@ if (love.children.length >= 24) {
 }
 
 function Rise() {
-console.log("Love You");
+console.log("Like You");
 let timer2 = null,
     distance = 0;
 const target = 120, 
